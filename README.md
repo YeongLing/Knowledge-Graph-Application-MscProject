@@ -18,7 +18,7 @@ The code for making projection of logical and multilateral relations into the ve
 * Define the embedding of the graph and queries.
 ### encoders.py
 * Define various encoder classes that is used in this project.
-### decoder.py
+### decoders.py
 * Define various decoder classes that is used in this project.
 ### aggregators.py
 * Define various aggregator classes that is used in this project.
